@@ -1,0 +1,3 @@
+name: catWellcomeB
+version: '${project.version}'
+main: catnoob.wellcome.Main
